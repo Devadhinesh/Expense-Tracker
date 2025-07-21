@@ -29,6 +29,3 @@ A simple and interactive web-based Expense Tracker application built using **HTM
 | **CSS**      | Styling and layout (with Bootstrap)|
 | **JavaScript** | Core functionality and DOM logic |
 
----
-
-##  Project Structure
